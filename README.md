@@ -1,2 +1,2 @@
 # c-process-multithreading
-A few projects about multi threads and processes
+A few projects about multithreads and processes
